@@ -1,6 +1,11 @@
 <h2 align="left">Hi 👋! My name is Beta</h2>
-<h4 align="left">NOW LISTENING TO</h4>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mfh1e5hlfzx9wd37uajy8v8yj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+###
+
+<div align="left">
+  <h4 align="left">NOW LISTENING TO</h4>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mfh1e5hlfzx9wd37uajy8v8yj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
 ###
 
 <div align="left">
